@@ -45,7 +45,7 @@ I am learning React from:
 * Forms Handling
 * Lifting State Up
 
-### ⏳ Day 4: Advanced (Upcoming)
+### ⏳ Day 4: Advanced
 
 * Custom Hooks
 * Context API
@@ -120,7 +120,7 @@ This repository is created to:
 
 **Dhananjay Mukhiya**
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/@dhananjaymukhiya
 * YouTube: https://www.youtube.com/@codeastron
 
 ---
