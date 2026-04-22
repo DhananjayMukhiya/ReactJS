@@ -1,9 +1,11 @@
 import Chai from "./Chai";
 
 function App() {
+  const userName = "Dhananjay Kumar"
+  
   return (
     <>
-      <h2>This is second heading</h2>
+      <h1>Code Stron | {userName}</h1>
       <Chai />
     </>
   );
